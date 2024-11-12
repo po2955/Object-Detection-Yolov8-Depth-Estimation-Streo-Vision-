@@ -215,4 +215,5 @@ results(loss, mAP, precision, reacall)
 
 - **1245x375, 200 epochs**
 
-[Final_2.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/8e93c4f1-6ad9-4a70-8e85-041046be0f87/b306fcf7-5801-440d-97c2-a97ef90a9d9b/Final_2.mp4)
+![Final](https://github.com/user-attachments/assets/6fd04bac-3536-41a4-a7a1-9f789e8b38ea)
+
